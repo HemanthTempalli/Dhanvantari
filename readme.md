@@ -1,4 +1,5 @@
 # AAROGYA AI - AI-Powered Healthcare Triage Platform
+                                             #Team Dhanvantari
 ## Complete Project Documentation
 
 **Project Type:** AI-Powered Healthcare Triage System  
@@ -959,4 +960,5 @@ The project successfully demonstrates the practical application of modern AI tec
 ---
 
 *This document serves as a comprehensive guide to the Aarogya AI project, suitable for academic submission and technical review.*
+
 
