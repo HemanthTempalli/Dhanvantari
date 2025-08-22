@@ -952,7 +952,7 @@ The project successfully demonstrates the practical application of modern AI tec
 
 ---
 
-**Project Team**: Healthcare AI Development Team  
+**Project Team**: Dhanvantari  
 **Documentation Version**: 1.0  
 **Last Updated**: August 2025  
 **Contact**: [hemanthtempalli@gmail.com]  
@@ -960,5 +960,6 @@ The project successfully demonstrates the practical application of modern AI tec
 ---
 
 *This document serves as a comprehensive guide to the Aarogya AI project, suitable for academic submission and technical review.*
+
 
 
