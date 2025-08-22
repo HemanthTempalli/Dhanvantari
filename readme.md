@@ -126,10 +126,18 @@ Appointment Booking → Video Consultation → Follow-up Care
 - **Treatment Recommendations**: Include medication and lifestyle suggestions
 - **Risk Assessment**: Highlight potential risks if conditions are untreated
 
-#### **6. Multilingual Support**
-- **Multiple Languages**: Support for various Indian languages
-- **Cultural Sensitivity**: Adapt recommendations to cultural contexts
-- **Localized Interface**: User interface in preferred languages
+#### **6. Real-time Hospital Discovery**
+- **Technology Stack:**
+- **Overpass API**: OpenStreetMap data for hospital locations
+- **Leaflet.js**: Interactive map visualization
+- **OpenStreetMap**: Free map tiles and data
+- **OSRM**: Open Source Routing Machine for directions
+
+**Functionality:**
+- Automatic hospital detection within 5km radius
+- Real-time location-based search
+- Interactive map with hospital markers
+- Route planning with distance and time estimates
 
 ### Advanced Features
 
@@ -960,6 +968,7 @@ The project successfully demonstrates the practical application of modern AI tec
 ---
 
 *This document serves as a comprehensive guide to the Aarogya AI project, suitable for academic submission and technical review.*
+
 
 
 
