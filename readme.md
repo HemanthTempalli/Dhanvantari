@@ -40,7 +40,6 @@ Aarogya AI is an intelligent healthcare triage system that addresses these criti
 - **AI-Powered Symptom Analysis**: Uses advanced language models to analyze patient symptoms through natural conversation
 - **Intelligent Specialist Matching**: Automatically recommends the most appropriate medical specialist based on symptom analysis
 - **Telehealth Integration**: Facilitates remote consultations through video appointments with Google Meet integration
-- **Multilingual Support**: Provides healthcare guidance in multiple languages
 - **Automated Appointment Booking**: Streamlines the process of scheduling consultations with recommended specialists
 
 ### Target Impact
@@ -960,3 +959,4 @@ The project successfully demonstrates the practical application of modern AI tec
 ---
 
 *This document serves as a comprehensive guide to the Aarogya AI project, suitable for academic submission and technical review.*
+
